@@ -19,14 +19,25 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8672438/nasratullah-shafiq" height="30" width="40" /></a>
 <a href="https://dev.to/mobinajafarian" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mobina-jafarian" height="30" width="40" /></a> 
+<a href="https://x.com/NasratShafiq" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/nasratullah_sh" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
+  
+<a href="https://t.me/MobinaJafarian" target="blank">
+<img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="nasratullah-shafiq" /></a>
+
+<a href="https://t.me/MobinaJafarian" target="blank">
+<img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="nasratullah-shafiq" /></a>
+
 <a href="https://gitlab.com/Mobina.Jafarian" target="blank">
-  <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="nasratullah-shafiq" height="30" width="40" /></a>
+  <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="nasratullah-shafiq" height="30" width="40"/></a>
+
 <a href="https://nasratullah.shafiq@gmail.com" target="blank">
   <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="nasratullah-shafiq" height="30" width="40" /></a>
-<a href="https://twitter.com/MobinaJafarian" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=mobina-jafarian" height="30" width="40" /></a> 
+ 
 <a href="https://t.me/MobinaJafarian" target="blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="mobina-jafarian" /></a>
+  <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="nasratullah-shafiq" /></a>
 </p>
 
 
@@ -75,4 +86,4 @@
 ---
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nasratullah-Shafiq&label=Profile%20views&color=fe428e&style=plastic" alt="MobinaJafarian" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nasratullah-Shafiq&label=Profile%20views&color=fe428e&style=plastic" alt="nasratullah-shafiq" /></p>
