@@ -43,7 +43,7 @@
 <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="nasratullah-shafiq" /></a>
  
 <a href="https://api.whatsapp.com/send/?phone=0771275892&text&type=phone_number&app_absent=0" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="nasratullah-shafiq" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" height="40"  alt="nasratullah-shafiq" /></a>
 </p>
 
 
