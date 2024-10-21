@@ -31,7 +31,7 @@
   <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="nasratullah-shafiq" height="30" width="40" /></a>
 
 <a href="https://x.com/NasratShafiq" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
   
   <a href="https://www.instagram.com/nasratullah_sh" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
