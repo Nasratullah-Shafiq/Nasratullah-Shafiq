@@ -37,7 +37,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
   
 <a href="https://www.facebook.com/nasratullah.shafiq.7" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="nasratullah-shafiq" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35" height="35" alt="nasratullah-shafiq" /></a>
 
 <a href="https://t.me/NasratullahShafiq" target="blank">
 <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="nasratullah-shafiq" /></a>
