@@ -17,7 +17,8 @@
 📫 You can contact me at nasratullah.shafiq@gmail.com<br>
 💞️ I’m looking to collaborate on ...<br>
 ⚡ Fun fact: I am a passionate full-stack developer.<br>
-
+<br/>
+<br/>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
