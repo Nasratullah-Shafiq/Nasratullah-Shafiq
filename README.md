@@ -13,6 +13,13 @@
 📫 You can contact me at nasratullah.shafiq@gmail.com<br>
 💞️ I’m looking to collaborate on ...<br>
 ⚡ Fun fact: I am a passionate full-stack developer.<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 🌐 Socials:
 
@@ -108,7 +115,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-ten.vercel.app/?username=mahdi-Eth&column=5&theme=radical&margin-w=15&margin-h=15" alt="mahdi-Eth" /></a></p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
