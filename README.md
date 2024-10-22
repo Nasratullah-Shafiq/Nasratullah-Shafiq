@@ -4,6 +4,10 @@
   </a>
 </h1>
 
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+</div>
+
 # 💫 About Me:
 💡 I’m Nasratullah Shafiq, a Software Engineer.<br>
 🔭 I’m currently working on https://github.com/Nasratullah-Shafiq/HRMS-Project<br>
@@ -13,17 +17,6 @@
 📫 You can contact me at nasratullah.shafiq@gmail.com<br>
 💞️ I’m looking to collaborate on ...<br>
 ⚡ Fun fact: I am a passionate full-stack developer.<br>
-
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm <a href="http://www.danielcela.com/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px"/> Daniel</a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel" alt="GitHub profile views counter">
-</h1>
-
-<div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
-</div>
-
 
 <div align="center">
   <picture>
