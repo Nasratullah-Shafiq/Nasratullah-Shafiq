@@ -117,9 +117,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nasratullah-Shafiq&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&langs_count=40&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&layout=donut)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&layout=pie)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&layout=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&langs_count=40&hide_border=true&include_all_commits=true&count_private&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&langs_count=40&hide_border=true&include_all_commits=true&count_private&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&langs_count=40&hide_border=true&include_all_commits=true&count_private&layout=default)
 
   <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nasratullah-Shafiq&theme=tokyonight"/>
 ## 🏆 GitHub Trophies
