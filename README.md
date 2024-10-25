@@ -127,6 +127,9 @@
 <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nasratullah-Shafiq&theme=tokyonight&utcOffset=4"/>
 
 
+<a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-contributions.vercel.app/api/v1/Nasratullah-Shafiq"/>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=8)
