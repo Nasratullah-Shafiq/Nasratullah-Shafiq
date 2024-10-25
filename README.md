@@ -116,8 +116,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nasratullah-Shafiq&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&langs_count=40&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-  <a href="https://github.com/Rez4-3yz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nasratullah-Shafiq&theme=tokyonight"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&langs_count=40&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nasratullah-Shafiq&theme=tokyonight"/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
