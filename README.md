@@ -128,8 +128,13 @@
 
 ### Contributions Graph
 ![Contributions Graph](https://github-contributions.vercel.app/api/v1/Nasratullah-Shafiq)
-<a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-contributions.vercel.app/api/v1/Nasratullah-Shafiq"/>
-<a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nasratullah-Shafiq&theme=tokyonight"/>
+
+#### Commit Activity
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nasratullah-Shafiq&theme=tokyonight&utcOffset=4)
+
+#### Profile Details
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nasratullah-Shafiq&theme=tokyonight)
+
 
 
 
