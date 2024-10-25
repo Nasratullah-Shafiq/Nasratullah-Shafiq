@@ -126,8 +126,10 @@
 <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nasratullah-Shafiq&theme=tokyonight"/>
 <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nasratullah-Shafiq&theme=tokyonight&utcOffset=4"/>
 
-
+### Contributions Graph
+![Contributions Graph](https://github-contributions.vercel.app/api/v1/Nasratullah-Shafiq)
 <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-contributions.vercel.app/api/v1/Nasratullah-Shafiq"/>
+<a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nasratullah-Shafiq&theme=tokyonight"/>
 
 
 
