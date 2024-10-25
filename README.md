@@ -114,7 +114,7 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nasratullah-Shafiq&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&langs_count=40&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&langs_count=40&hide_border=true&include_all_commits=true&count_private&layout=donut)
@@ -131,7 +131,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nasratullah-Shafiq&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&theme=radical&no-frame=true&no-bg=false&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=8)
 
 
 
