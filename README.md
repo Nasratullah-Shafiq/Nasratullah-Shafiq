@@ -122,10 +122,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&langs_count=40&hide_border=true&include_all_commits=true&count_private&layout=default)
 
   <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nasratullah-Shafiq&theme=tokyonight"/>
+# My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nasratullah-Shafiq&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nasratullah-Shafiq&theme=radical&hide_border=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&theme=radical&no-frame=true&no-bg=false&margin-w=8)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
 
 
