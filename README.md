@@ -118,7 +118,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nasratullah-Shafiq&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![Top Langs](https://github-readme-stats-mahdieths-projects.vercel.app/api/top-langs/?username=mahdi-eth&layout=compact&theme=radical&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php)
+![Top Langs](https://github-readme-stats-mahdieths-projects.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&layout=compact&theme=radical&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
