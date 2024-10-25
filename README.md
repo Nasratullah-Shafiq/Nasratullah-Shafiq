@@ -123,7 +123,10 @@
 
   <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nasratullah-Shafiq&theme=tokyonight"/>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&theme=radical&no-frame=true&no-bg=false&margin-w=8)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
 
 
 ### ✍️ Random Dev Quote
