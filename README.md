@@ -126,34 +126,6 @@
 <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nasratullah-Shafiq&theme=tokyonight"/>
 <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nasratullah-Shafiq&theme=tokyonight&utcOffset=4"/>
 
-## GitHub Profile Visualization
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&layout=compact&theme=radical&langs_count=10)
-
-### GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nasratullah-Shafiq&theme=radical&hide_border=true)
-
-### Contributions Graph
-![Contributions Graph](https://github-contributions.vercel.app/api/v1/Nasratullah-Shafiq)
-
-### GitHub Profile Summary
-
-#### Profile Details
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nasratullah-Shafiq&theme=tokyonight)
-
-#### Repositories Per Language
-![Repositories Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nasratullah-Shafiq&theme=tokyonight)
-
-#### Most Used Languages
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nasratullah-Shafiq&theme=tokyonight)
-
-#### Commit Activity
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nasratullah-Shafiq&theme=tokyonight&utcOffset=4)
-
 ### Profile Statistics
 ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nasratullah-Shafiq&theme=tokyonight)
 
