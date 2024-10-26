@@ -70,9 +70,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https:///www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a> 
-
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
@@ -116,14 +116,15 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nasratullah-Shafiq&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&langs_count=40&hide_border=true&include_all_commits=true&count_private&layout=donut)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&langs_count=40&hide_border=true&include_all_commits=true&count_private&layout=pie)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40&hide_border=true&include_all_commits=true&count_private&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40&hide_border=true&include_all_commits=true&count_private&layout=pie)
 
   <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nasratullah-Shafiq&theme=tokyonight"/>
 
 <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nasratullah-Shafiq&theme=tokyonight"/>
-<a href="https://github.com/Nasratullah-Shafiq"><img src="https://[github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nasratullah-Shafiq&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nasratullah-Shafiq&theme=tokyonight)"/>
+<a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nasratullah-Shafiq&theme=tokyonight"/>
+![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nasratullah-Shafiq&theme=tokyonight)
 <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nasratullah-Shafiq&theme=tokyonight&utcOffset=4"/>
 
 
@@ -131,9 +132,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=8)
 
 
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nasratullah-Shafiq&label=Profile%20views&color=fe428e&style=plastic" alt="nasratullah-shafiq" /></p>
