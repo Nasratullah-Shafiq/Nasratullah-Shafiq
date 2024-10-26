@@ -131,8 +131,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=8)
 
 
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
