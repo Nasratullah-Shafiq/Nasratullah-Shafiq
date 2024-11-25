@@ -126,7 +126,7 @@
 <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40"/>
 ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nasratullah-Shafiq&theme=tokyonight)
 <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nasratullah-Shafiq&theme=tokyonight&utcOffset=4"/>
-
+<figure><embed src="https://wakatime.com/share/@Nasratullah-Shafiq/106fb23c-f2e4-4ac4-b789-c2c870124cf1.svg"></embed></figure>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nasratullah-Shafiq&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=8)
