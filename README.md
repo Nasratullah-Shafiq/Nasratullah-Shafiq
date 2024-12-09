@@ -114,7 +114,9 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&token=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)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nasratullah-Shafiq&theme=tokyonight&hide_border=true)<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
